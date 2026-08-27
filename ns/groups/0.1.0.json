@@ -24,6 +24,10 @@
     "groups": {
       "@id": "group:groups",
       "@type": "@id"
+    },
+    "groupsOf": {
+      "@id": "group:groupsOf",
+      "@type": "@id"
     }
   }
 }
