@@ -1,0 +1,22 @@
+title: Evan Prodromou
+author: Evan Prodromou
+description: I'm a software developer interested in decentralized social networks, web standards, and open source software.
+url: "https://evanp.github.io"
+timezone: UTC
+
+plugins:
+  - jekyll-activitypub-static
+
+activitypub:
+  preferred_username: evanp
+  output_path: activitypub
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+include:
+  - .well-known
