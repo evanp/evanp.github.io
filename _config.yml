@@ -3,6 +3,7 @@ author: Evan Prodromou
 description: I'm a software developer interested in decentralized social networks, web standards, and open source software.
 url: "https://evanp.github.io"
 timezone: UTC
+theme: minima
 
 plugins:
   - jekyll-activitypub-static
