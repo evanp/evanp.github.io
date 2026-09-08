@@ -11,6 +11,7 @@ plugins:
 activitypub:
   preferred_username: evanp
   output_path: activitypub
+  webfinger_output_file: .well-known/webfinger/index.json
 
 defaults:
   - scope:
