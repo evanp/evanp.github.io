@@ -73,7 +73,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-activitypub-static (0.8.0)
+    jekyll-activitypub-static (0.10.0)
       jekyll (~> 4.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
@@ -168,7 +168,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4)
-  jekyll-activitypub-static (~> 0.8.0)
+  jekyll-activitypub-static (~> 0.10.0)
   minima (~> 2.5)
 
 BUNDLED WITH
